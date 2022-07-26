@@ -1,7 +1,7 @@
 
 <br />
 
-<p align="center"><a href="https://github.com/Coder-Yc/Coder-Yc"><img width="80%" " src="./pic.jpg" /></a></p>
+<p align="center"><a href="https://github.com/Coder-Yc/Coder-Yc"><img width="100%" " src="./pic.jpg" /></a></p>
 
 
 **About me**
