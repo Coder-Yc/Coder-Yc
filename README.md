@@ -1,7 +1,8 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from China 
+<p align="center"><a href="https://github.com/Coder-Yc/Coder-Yc"><img width="80%" height="10%" src="./pic.jpg" /></a></p>
+
 
 **About me**
 
