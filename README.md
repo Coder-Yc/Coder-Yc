@@ -24,10 +24,10 @@ I'm a self-taught passionate FrontEnd developer from China
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Coder-Yc/mini_vue2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coder-Yc&repo=mini_vue2&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Coder-Yc/We_FoundLost">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coder-Yc&repo=We_FoundLost&theme=buefy" />
 </a>
 
